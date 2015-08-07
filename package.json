@@ -1,0 +1,15 @@
+{
+  "name": "gulp-md5-refer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-util": "~2.2.14",
+    "through2": "^0.4.1",
+    "glob": "^4.0.6"
+  },
+  "author": {
+    "name": "violin"
+  },
+  "email": "viowan@gmail.com",
+  "license": "MIT"
+}
